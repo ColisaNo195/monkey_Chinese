@@ -1,6 +1,6 @@
 # lesson 1
 
-![Basic 4 tones in mandarin](vx_images/335714722249277.png =504x)
+![4 tones in mandarin](https://chinesefor.us/wp-content/uploads/2017/01/chinesefor.us-pronunciation-tone-drills-l1p1-mandarin-chinese-tones-lesson-practice-1024x576.png)
 
 | 中文 Chinese |  拼音 pinyin  |              英文 English              |
 | ------------ | ------------- | -------------------------------------- |
