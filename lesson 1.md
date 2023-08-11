@@ -47,6 +47,7 @@ Usually people say Chinese has 4 tones. The 5th tone is simply to pronounce at a
 Similar with the special pronunciation with consecutive 3rd tone, the 5th tone is never an official pronunciation on the dictionary, only applies within the context of a word or sentence.
 * Two same characters. 大猩猩 dà xīng xīng ==> dà xīng xing
 * End-of-sentence particle. 是啊 shì ā ==> shì a
+* Generic character at the end of a word. 猴子 hóu zǐ ==> hóu zi
 
 
 ## Vocabulary
